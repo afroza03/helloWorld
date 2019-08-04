@@ -20,7 +20,7 @@ public class ArraySort {
             for (int main : depo) {
                 System.out.print(main + " ");
             }
-            System.out.println();
+            System.out.println("hgfedgbcfukszgbdc");
         }
 
     }
